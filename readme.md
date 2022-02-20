@@ -12,8 +12,8 @@
 
 ### 配套例程文档 (Supporting routine documentation)
 [RoboMaster开发板C型嵌入式软件教程文档.pdf](RoboMaster开发板C型嵌入式软件教程文档.pdf) (Translated to en available)
-### 配套例程
-* [0.cubemx新工程](0.new_cubemx_program)
+### 配套例程 (Supporting routines)
+* [0.new_cubemx_program](0.new_cubemx_program)
 * [1.点亮LED](1.light_led)
 * [2.闪烁LED](2.flash_light)
 * [3.定时器闪烁LED](3.tim_light)
