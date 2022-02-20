@@ -1,5 +1,5 @@
-﻿## 概述
-### 软件环境
+﻿## 概述 (Overview)
+### 软件环境 (Software Environment)
  - Toolchain/IDE : MDK-ARM V5
  - STM32F4xx_DFP Packs:2.13.0
  - STM32CubeMx:5.2.1
@@ -7,11 +7,11 @@
  - FreeRTOS version: 10.0.1
  - CMSIS-RTOS version: 1.02
  
-### 用户程序bin
+### 用户程序bin (User program)
 [user_program.bin](0.new_cubemx_program/user_program.bin)
 
-### 配套例程文档
-[RoboMaster开发板C型嵌入式软件教程文档.pdf](RoboMaster开发板C型嵌入式软件教程文档.pdf)
+### 配套例程文档 (Supporting routine documentation)
+[RoboMaster开发板C型嵌入式软件教程文档.pdf](RoboMaster开发板C型嵌入式软件教程文档.pdf) (Translated to en available)
 ### 配套例程
 * [0.cubemx新工程](0.new_cubemx_program)
 * [1.点亮LED](1.light_led)
