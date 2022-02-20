@@ -1,4 +1,4 @@
-﻿## 概述 (Overview)
+﻿## 概述 (Overview) [It is Google Translated so do not expect much xd]
 ### 软件环境 (Software Environment)
  - Toolchain/IDE : MDK-ARM V5
  - STM32F4xx_DFP Packs:2.13.0
